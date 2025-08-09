@@ -19,7 +19,7 @@ Este é um projeto de automação que envia mensagens personalizadas via **Whats
 - `openpyxl`
 - `webbrowser`
 - `urllib.parse`
-- `time`, `os`, etc.
+- `time`, `os`
 
 ---
 
@@ -29,7 +29,7 @@ Este é um projeto de automação que envia mensagens personalizadas via **Whats
 ├── clientes.xlsx # Planilha com os dados dos clientes
 ├── sucesso.csv # Log de mensagens enviadas com sucesso
 ├── erros.csv # Log de erros no envio
-└── README.md # Este arquivo
+
 
 
 ---
